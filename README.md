@@ -28,6 +28,6 @@ Needs the [conda environment](https://docs.conda.io/projects/conda/en/latest/use
 Pretty simple. Navigate to [http://localhost:5000/single/CO2](http://localhost:5000/single/CO2). You should see a CO2 molecule.
 Similarly, navigating to [http://localhost:5000/single/"molecule"](http://localhost:5000/single/"molecule") should give an image of the molecule.
   
-The list of supported molecules can be found in /static/metabolites/kegg_compounds.json
+The list of supported molecules can be found in /static/metabolites/kegg_compounds.json. Use the "name" field.
 
 
