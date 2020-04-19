@@ -1,6 +1,7 @@
 ## MolVis
 
-Under development: an application that can visualize One (1) molecule
+Under development: an application that can visualize One (1) molecule.
+
 Needs the [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 ### Quick Start
 
