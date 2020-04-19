@@ -7,7 +7,7 @@ Needs the [conda environment](https://docs.conda.io/projects/conda/en/latest/use
 
 1. Clone the repo
   ```
-  $ git clone https://github.com/realpython/flask-boilerplate.git
+  $ git clone https://github.com/jamesbwang/molVis.git
   $ cd molVis
   ```
 
